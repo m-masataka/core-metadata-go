@@ -26,6 +26,7 @@ import (
 	"time"
 
 	"github.com/edgexfoundry/core-domain-go/models"
+	notifications "github.com/edgexfoundry/support-notifications-client-go"
 	"github.com/gorilla/mux"
 	"gopkg.in/mgo.v2"
 )
